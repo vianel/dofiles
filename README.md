@@ -1,1 +1,3 @@
-# dofiles
+# Dofiles
+
+Dotfile config
