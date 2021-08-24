@@ -41,3 +41,6 @@ done
 unset config_files
 
 ZSH_THEME="robbyrussell"
+
+eval "$(direnv hook zsh)"
+
